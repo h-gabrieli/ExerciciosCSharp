@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\Lista1\Exercicio12\bin\Debug\net8.0\Exercicio12.exe
+C:\Users\gabri\source\repos\Lista1\Exercicio12\bin\Debug\net8.0\Exercicio12.deps.json
+C:\Users\gabri\source\repos\Lista1\Exercicio12\bin\Debug\net8.0\Exercicio12.runtimeconfig.json
+C:\Users\gabri\source\repos\Lista1\Exercicio12\bin\Debug\net8.0\Exercicio12.dll
+C:\Users\gabri\source\repos\Lista1\Exercicio12\bin\Debug\net8.0\Exercicio12.pdb
+C:\Users\gabri\source\repos\Lista1\Exercicio12\obj\Debug\net8.0\Exercicio12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Lista1\Exercicio12\obj\Debug\net8.0\Exercicio12.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Lista1\Exercicio12\obj\Debug\net8.0\Exercicio12.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Lista1\Exercicio12\obj\Debug\net8.0\Exercicio12.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Lista1\Exercicio12\obj\Debug\net8.0\Exercicio12.dll
+C:\Users\gabri\source\repos\Lista1\Exercicio12\obj\Debug\net8.0\refint\Exercicio12.dll
+C:\Users\gabri\source\repos\Lista1\Exercicio12\obj\Debug\net8.0\Exercicio12.pdb
+C:\Users\gabri\source\repos\Lista1\Exercicio12\obj\Debug\net8.0\Exercicio12.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Lista1\Exercicio12\obj\Debug\net8.0\ref\Exercicio12.dll
